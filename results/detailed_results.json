@@ -1,0 +1,194 @@
+[
+    {
+        "Season": 2000,
+        "ActualChampion": "New Zealand",
+        "LogisticRegression": {
+            "PredictedChampion": "New Zealand",
+            "Probability": 0.9915397629331514,
+            "Correct": 1
+        },
+        "DecisionTree": {
+            "PredictedChampion": "New Zealand",
+            "Probability": 1.0,
+            "Correct": 1
+        },
+        "RandomForest": {
+            "PredictedChampion": "New Zealand",
+            "Probability": 0.57,
+            "Correct": 1
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "New Zealand",
+            "Probability": 0.9645689196031546,
+            "Correct": 1
+        }
+    },
+    {
+        "Season": 2002,
+        "ActualChampion": "India and Sri Lanka",
+        "LogisticRegression": {
+            "PredictedChampion": "South Africa",
+            "Probability": 0.0006651295005394112,
+            "Correct": 0
+        },
+        "DecisionTree": {
+            "PredictedChampion": "South Africa",
+            "Probability": 0.0,
+            "Correct": 0
+        },
+        "RandomForest": {
+            "PredictedChampion": "India",
+            "Probability": 0.12,
+            "Correct": 0
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "South Africa",
+            "Probability": 0.028058549261428745,
+            "Correct": 0
+        }
+    },
+    {
+        "Season": 2004,
+        "ActualChampion": "West Indies",
+        "LogisticRegression": {
+            "PredictedChampion": "West Indies",
+            "Probability": 0.992812302787395,
+            "Correct": 1
+        },
+        "DecisionTree": {
+            "PredictedChampion": "West Indies",
+            "Probability": 1.0,
+            "Correct": 1
+        },
+        "RandomForest": {
+            "PredictedChampion": "West Indies",
+            "Probability": 0.83,
+            "Correct": 1
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "West Indies",
+            "Probability": 0.7384619247587079,
+            "Correct": 1
+        }
+    },
+    {
+        "Season": 2006,
+        "ActualChampion": "Australia",
+        "LogisticRegression": {
+            "PredictedChampion": "Australia",
+            "Probability": 0.05242705930472058,
+            "Correct": 1
+        },
+        "DecisionTree": {
+            "PredictedChampion": "South Africa",
+            "Probability": 0.0,
+            "Correct": 0
+        },
+        "RandomForest": {
+            "PredictedChampion": "Australia",
+            "Probability": 0.08,
+            "Correct": 1
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "Australia",
+            "Probability": 0.02011659035295684,
+            "Correct": 1
+        }
+    },
+    {
+        "Season": 2009,
+        "ActualChampion": "Australia",
+        "LogisticRegression": {
+            "PredictedChampion": "Australia",
+            "Probability": 0.8458844259903924,
+            "Correct": 1
+        },
+        "DecisionTree": {
+            "PredictedChampion": "Australia",
+            "Probability": 1.0,
+            "Correct": 1
+        },
+        "RandomForest": {
+            "PredictedChampion": "Australia",
+            "Probability": 0.66,
+            "Correct": 1
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "Australia",
+            "Probability": 0.6972594498957937,
+            "Correct": 1
+        }
+    },
+    {
+        "Season": 2013,
+        "ActualChampion": "India",
+        "LogisticRegression": {
+            "PredictedChampion": "India",
+            "Probability": 0.999999997860654,
+            "Correct": 1
+        },
+        "DecisionTree": {
+            "PredictedChampion": "India",
+            "Probability": 1.0,
+            "Correct": 1
+        },
+        "RandomForest": {
+            "PredictedChampion": "India",
+            "Probability": 0.99,
+            "Correct": 1
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "India",
+            "Probability": 0.9996682927812034,
+            "Correct": 1
+        }
+    },
+    {
+        "Season": 2017,
+        "ActualChampion": "Pakistan",
+        "LogisticRegression": {
+            "PredictedChampion": "Pakistan",
+            "Probability": 0.9131198065492272,
+            "Correct": 1
+        },
+        "DecisionTree": {
+            "PredictedChampion": "Pakistan",
+            "Probability": 1.0,
+            "Correct": 1
+        },
+        "RandomForest": {
+            "PredictedChampion": "Pakistan",
+            "Probability": 0.88,
+            "Correct": 1
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "Pakistan",
+            "Probability": 0.8029068207765793,
+            "Correct": 1
+        }
+    },
+    {
+        "Season": 2025,
+        "ActualChampion": "India",
+        "LogisticRegression": {
+            "PredictedChampion": "India",
+            "Probability": 0.9999999997587286,
+            "Correct": 1
+        },
+        "DecisionTree": {
+            "PredictedChampion": "South Africa",
+            "Probability": 1.0,
+            "Correct": 0
+        },
+        "RandomForest": {
+            "PredictedChampion": "India",
+            "Probability": 1.0,
+            "Correct": 1
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "India",
+            "Probability": 0.995765822620239,
+            "Correct": 1
+        }
+    }
+]

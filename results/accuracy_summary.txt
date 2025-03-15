@@ -1,0 +1,6 @@
+{
+    "LogisticRegression": 87.5,
+    "DecisionTree": 62.5,
+    "RandomForest": 87.5,
+    "NeuralNetwork": 37.5
+}

@@ -1,0 +1,1490 @@
+[
+    {
+        "Season": 2000,
+        "ActualChampion": "New Zealand",
+        "LogisticRegression": {
+            "PredictedChampion": "New Zealand",
+            "Probability": 0.9915397629331514,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 6.997550561715232e-05
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.08340825338861031
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 6.997550561715232e-05
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 4.251000281300649e-11
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.9915397629331514
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 6.997550561715232e-05
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 4.251000281300649e-11
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 6.997550561715232e-05
+                },
+                {
+                    "Team": "Kenya",
+                    "Pred_Prob": 4.251000281300649e-11
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 4.251000281300649e-11
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 4.251000281300649e-11
+                }
+            ]
+        },
+        "DecisionTree": {
+            "PredictedChampion": "New Zealand",
+            "Probability": 1.0,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 1.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Kenya",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "RandomForest": {
+            "PredictedChampion": "New Zealand",
+            "Probability": 0.59,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.23
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.59
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Kenya",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "Australia",
+            "Probability": 0.5565057054512268,
+            "Correct": 0,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.16742427310346392
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.06208288150691665
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.16742427310346392
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.5565057054512268
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.021197939515893903
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.16742427310346392
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.5565057054512268
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.16742427310346392
+                },
+                {
+                    "Team": "Kenya",
+                    "Pred_Prob": 0.5565057054512268
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.5565057054512268
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 0.5565057054512268
+                }
+            ]
+        }
+    },
+    {
+        "Season": 2002,
+        "ActualChampion": "India and Sri Lanka",
+        "LogisticRegression": {
+            "PredictedChampion": "South Africa",
+            "Probability": 0.0006651295005394112,
+            "Correct": 0,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0006651295005394112
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 5.540451044206531e-05
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 1.49475806759589e-06
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0006651295005394112
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 1.49475806759589e-06
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 1.49475806759589e-06
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 1.603696406095124e-14
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 5.540451044206531e-05
+                },
+                {
+                    "Team": "Kenya",
+                    "Pred_Prob": 1.603696406095124e-14
+                },
+                {
+                    "Team": "Netherlands",
+                    "Pred_Prob": 1.603696406095124e-14
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 1.49475806759589e-06
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 1.603696406095124e-14
+                }
+            ]
+        },
+        "DecisionTree": {
+            "PredictedChampion": "South Africa",
+            "Probability": 0.0,
+            "Correct": 0,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Kenya",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Netherlands",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "RandomForest": {
+            "PredictedChampion": "India",
+            "Probability": 0.05,
+            "Correct": 0,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.01
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.05
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.01
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.05
+                },
+                {
+                    "Team": "Kenya",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Netherlands",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "South Africa",
+            "Probability": 0.03239508526356292,
+            "Correct": 0,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.03239508526356292
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 5.4536721676525784e-05
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.023880512026775675
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.03239508526356292
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.023880512026775675
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.023880512026775675
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 3.628894747208042e-05
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 5.4536721676525784e-05
+                },
+                {
+                    "Team": "Kenya",
+                    "Pred_Prob": 3.628894747208042e-05
+                },
+                {
+                    "Team": "Netherlands",
+                    "Pred_Prob": 3.628894747208042e-05
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.023880512026775675
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 3.628894747208042e-05
+                }
+            ]
+        }
+    },
+    {
+        "Season": 2004,
+        "ActualChampion": "West Indies",
+        "LogisticRegression": {
+            "PredictedChampion": "West Indies",
+            "Probability": 0.992812302787395,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 1.1844514048968276e-06
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 1.1844514048968276e-06
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0005731876432052278
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0005731876432052278
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 1.1844514048968276e-06
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.012396316519289812
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 9.939363091822164e-15
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 1.1844514048968276e-06
+                },
+                {
+                    "Team": "Kenya",
+                    "Pred_Prob": 9.939363091822164e-15
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.992812302787395
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 9.939363091822164e-15
+                },
+                {
+                    "Team": "U.S.A.",
+                    "Pred_Prob": 9.939363091822164e-15
+                }
+            ]
+        },
+        "DecisionTree": {
+            "PredictedChampion": "West Indies",
+            "Probability": 1.0,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Kenya",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 1.0
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "U.S.A.",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "RandomForest": {
+            "PredictedChampion": "West Indies",
+            "Probability": 0.84,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.06
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Kenya",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.84
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "U.S.A.",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "Bangladesh",
+            "Probability": 0.186804157332257,
+            "Correct": 0,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.05073592819637637
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.05073592819637637
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.017927504482116427
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.017927504482116427
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.05073592819637637
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.009187333413453288
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.186804157332257
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.05073592819637637
+                },
+                {
+                    "Team": "Kenya",
+                    "Pred_Prob": 0.186804157332257
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.0035171005211888473
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 0.186804157332257
+                },
+                {
+                    "Team": "U.S.A.",
+                    "Pred_Prob": 0.186804157332257
+                }
+            ]
+        }
+    },
+    {
+        "Season": 2006,
+        "ActualChampion": "Australia",
+        "LogisticRegression": {
+            "PredictedChampion": "Australia",
+            "Probability": 0.05242705930472058,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 2.8282195449629247e-07
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 3.294530816355495e-10
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 3.294530816355495e-10
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.05242705930472058
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 2.8282195449629247e-07
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 3.294530816355495e-10
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 3.294530816355495e-10
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.00024204844645397828
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 4.345577470141799e-05
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 4.346597864054015e-16
+                }
+            ]
+        },
+        "DecisionTree": {
+            "PredictedChampion": "South Africa",
+            "Probability": 0.0,
+            "Correct": 0,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "RandomForest": {
+            "PredictedChampion": "Australia",
+            "Probability": 0.08,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.08
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.08
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.08
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "Zimbabwe",
+            "Probability": 0.0805668786878989,
+            "Correct": 0,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.01068332797899806
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.025970257835740314
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.025970257835740314
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.003753500979738852
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.01068332797899806
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.025970257835740314
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.025970257835740314
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0028816007856760314
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.0011116188534235003
+                },
+                {
+                    "Team": "Zimbabwe",
+                    "Pred_Prob": 0.0805668786878989
+                }
+            ]
+        }
+    },
+    {
+        "Season": 2009,
+        "ActualChampion": "Australia",
+        "LogisticRegression": {
+            "PredictedChampion": "Australia",
+            "Probability": 0.8458844259903924,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 4.663649114411275e-16
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 4.663649114411275e-16
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 2.64601626057629e-10
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.8458844259903924
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 8.481952447029347e-07
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 2.64601626057629e-10
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 4.663649114411275e-16
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 2.3005499694416518e-27
+                }
+            ]
+        },
+        "DecisionTree": {
+            "PredictedChampion": "Australia",
+            "Probability": 1.0,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 1.0
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "RandomForest": {
+            "PredictedChampion": "Australia",
+            "Probability": 0.66,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.66
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "West Indies",
+            "Probability": 0.1512833444881623,
+            "Correct": 0,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.1013503636186993
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.1013503636186993
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.04971755317702546
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.014426965706580464
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.03296920299415849
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.04971755317702546
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.1013503636186993
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.1512833444881623
+                }
+            ]
+        }
+    },
+    {
+        "Season": 2013,
+        "ActualChampion": "India",
+        "LogisticRegression": {
+            "PredictedChampion": "India",
+            "Probability": 0.999999997860654,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 7.845985880951005e-21
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.999999997860654
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 1.8962116973230724e-30
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 1.8962116973230724e-30
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 9.429859815292495e-18
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 2.362140666359196e-07
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 2.7290312970169088e-11
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 9.429859815292495e-18
+                }
+            ]
+        },
+        "DecisionTree": {
+            "PredictedChampion": "India",
+            "Probability": 1.0,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 1.0
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "RandomForest": {
+            "PredictedChampion": "India",
+            "Probability": 0.97,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.97
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "India",
+            "Probability": 0.9990032788833301,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 1.2885316544599174e-06
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.9990032788833301
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 5.582643018560008e-06
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 5.582643018560008e-06
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 6.695319373632056e-05
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.004824972131710077
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0005692517115682364
+                },
+                {
+                    "Team": "West Indies",
+                    "Pred_Prob": 6.695319373632056e-05
+                }
+            ]
+        }
+    },
+    {
+        "Season": 2017,
+        "ActualChampion": "Pakistan",
+        "LogisticRegression": {
+            "PredictedChampion": "Pakistan",
+            "Probability": 0.9131198065492272,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 9.429738341568589e-18
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 2.362406598364623e-07
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.9131198065492272
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 1.8957161829548777e-30
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 1.8957161829548777e-30
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.08671278128690817
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 7.84541100212556e-21
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 9.429738341568589e-18
+                }
+            ]
+        },
+        "DecisionTree": {
+            "PredictedChampion": "Pakistan",
+            "Probability": 1.0,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 1.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "RandomForest": {
+            "PredictedChampion": "Pakistan",
+            "Probability": 0.91,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.91
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.15
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "Pakistan",
+            "Probability": 0.6305927603725605,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.0005600630433179596
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.013424066471113744
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.6305927603725605
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 6.3460617699931485e-06
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 6.3460617699931485e-06
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.2670687856140133
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 2.1063221804498428e-05
+                },
+                {
+                    "Team": "Sri Lanka",
+                    "Pred_Prob": 0.0005600630433179596
+                }
+            ]
+        }
+    },
+    {
+        "Season": 2025,
+        "ActualChampion": "India",
+        "LogisticRegression": {
+            "PredictedChampion": "India",
+            "Probability": 0.9999999997587286,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.9999999994701185
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.9999999997587286
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 2.2914197518670766e-34
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 6.01474784520202e-20
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 1.2969759786917134e-05
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 2.789313219846193e-34
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 2.2914197518670766e-34
+                },
+                {
+                    "Team": "Afghanistan",
+                    "Pred_Prob": 6.01474784520202e-20
+                }
+            ]
+        },
+        "DecisionTree": {
+            "PredictedChampion": "South Africa",
+            "Probability": 1.0,
+            "Correct": 0,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 1.0
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 1.0
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Afghanistan",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "RandomForest": {
+            "PredictedChampion": "India",
+            "Probability": 0.99,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.87
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.99
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 0.0
+                },
+                {
+                    "Team": "Afghanistan",
+                    "Pred_Prob": 0.0
+                }
+            ]
+        },
+        "NeuralNetwork": {
+            "PredictedChampion": "India",
+            "Probability": 0.9841402371153896,
+            "Correct": 1,
+            "TeamPredictions": [
+                {
+                    "Team": "South Africa",
+                    "Pred_Prob": 0.42913215859007614
+                },
+                {
+                    "Team": "India",
+                    "Pred_Prob": 0.9841402371153896
+                },
+                {
+                    "Team": "Pakistan",
+                    "Pred_Prob": 6.512766407035757e-05
+                },
+                {
+                    "Team": "Australia",
+                    "Pred_Prob": 8.655382898999091e-05
+                },
+                {
+                    "Team": "New Zealand",
+                    "Pred_Prob": 0.04541781108813138
+                },
+                {
+                    "Team": "England",
+                    "Pred_Prob": 2.125975421169759e-06
+                },
+                {
+                    "Team": "Bangladesh",
+                    "Pred_Prob": 6.512766407035757e-05
+                },
+                {
+                    "Team": "Afghanistan",
+                    "Pred_Prob": 8.655382898999091e-05
+                }
+            ]
+        }
+    }
+]
